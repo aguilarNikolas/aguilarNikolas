@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aguilarNikolas](https://github.com/aguilarNikolas)
 
-- 📫 How to reach me **nik.acdc [at] gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikolasnascimentoaguilar/](https://www.linkedin.com/in/nikolasnascimentoaguilar/)
 
 - ⚡ Fun fact **I am Nikolas but not Tesla :)**
