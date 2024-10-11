@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my professional training**
 
-- 🌱 I’m currently learning **CSS, javascript, Node.js, react**
+- 🌱 I’m always enhancing my knowledge in **Python, SQL, Google Cloud, CSS, javascript, Node.js, react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aguilarNikolas](https://github.com/aguilarNikolas)
 
